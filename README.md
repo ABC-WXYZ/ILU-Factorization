@@ -5,7 +5,7 @@ You may look at the presentation for detailed information about pseudocode, theo
 
 WORK DONE AS PART OF RESEARCH PROJECT FOR SCIENTIFIC COMPUTING AT IIITD, MONSOON '25
 
-**Contributors:**
+**CONTRIBUTORS:**
 - Himanshu
 - Siddharth
 

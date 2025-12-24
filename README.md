@@ -3,7 +3,7 @@ It consists of functions for ILU(0), ILU(k) and dual-threshold based ILU. Curren
 I plan to do that soon after the end-semester exams, immediately after 7th December. I will also translate it to C++ and utilise Compressed matrices. 
 You may look at the presentation for detailed information about pseudocode, theory, performance etc.       
 
-WORK DONE AS PART OF RESEARCH PROJECT FOR SCIENTIFIC COMPUTING AT IIITD, MONSOON '25
+WORK DONE AS PART OF RESEARCH PROJECT FOR SCIENTIFIC COMPUTING AT IIITD, MONSOON '25 MTH373
 
 **CONTRIBUTORS:**
 - Himanshu
